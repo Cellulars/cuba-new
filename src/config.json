@@ -1,0 +1,14 @@
+{
+  "auth0": {
+    "domain": "Enter Domain",
+    "clientID": "1:1003663368293:web:f975f6d67de65b7b07268c"
+  },
+  "firebase": {
+    "apiKey": "AIzaSyDZEccBUw2BndLd30BKZC66i20YWOEm6pk",
+    "authDomain": "cuba-cellular.firebaseapp.com",
+    "databaseURL": "Enter Database URL",
+    "projectId": "cuba-cellular",
+    "storageBucket": "cuba-cellular.appspot.com",
+    "messagingSenderId": "1003663368293"
+  }
+}
